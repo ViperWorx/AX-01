@@ -100,7 +100,6 @@
   <Property Name="Checked In By" />
   <Property Name="Checked In" />
   <Property Name="Checkout Workgroup" />
-  <Property Name="Checkout Worksspace" />
   <Property Name="Next Version" />
   <Property Name="Current Version" />
   <Property Name="Previous Version" />
